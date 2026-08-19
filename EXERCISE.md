@@ -53,17 +53,17 @@
    
 3. **Ajouter votre présentation (exemple)**
    ```python
-"""
-Présentation personnelle - [Votre Nom]
-"""
-nom = "Votre Nom"
-prenom = "Votre Prénom"
-email = "votre.email@example.com"
-universite = "Université/École"
-specialite = "Votre Spécialité"
-interet_principal = "Vos intérêts (ex: IA, Web, DevOps)"
-experience_git = "Débutant/Intermédiaire/Avancé"
-#...
+   """
+   Présentation personnelle - [Votre Nom]
+   """
+   nom = "Votre Nom"
+   prenom = "Votre Prénom"
+   email = "votre.email@example.com"
+   universite = "Université/École"
+   specialite = "Votre Spécialité"
+   interet_principal = "Vos intérêts (ex: IA, Web, DevOps)"
+   experience_git = "Débutant/Intermédiaire/Avancé"
+   #...
    ```
 
 4. **Tester votre fichier**
