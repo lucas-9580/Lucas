@@ -6,16 +6,16 @@
 # - Gardez la structure simple : variables + affichage (print)
 
 # --- À compléter (remplacez les valeurs par les vôtres) ---
-nom = "Ton prénom"                         
-age = 17                                   
-ecole_secondaire = "Ton école secondaire"  
-programme = "Programmation ou Réseau ?"    
-attentes = "Tes attentes..."              
-besoins = "..."       
-motivations = ""       
-defis = 
-forces =      
-loisirs = 
+nom = " Lucas "
+age = 18
+ecole_secondaire = " CADO "
+programme = " Cybersécurité "
+attentes = " Réussir "
+besoins = " Aide "
+motivations = " Argent "
+defis = " Réussir "
+forces = " persévérence "
+loisirs = " sport "
 # -------------------
 # --- Ne pas modifier la sectoin du bas ---
 print("===== FICHE APPRENANT =====")
